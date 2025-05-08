@@ -4,7 +4,7 @@ The birdflu is a file that just puts bird on your screen, between one and five, 
 They are loud, and there is about a 1 in 1000 chance that the sound they will produce is a "tweet tweet" voiced by someone on freesound.
 All images come from google and remove.bg and all sounds are from [https://freesound.com](freesound).
 
-Made in my freetime for a friend who likes birds, this is my first real github project and is likel really poorly optimized. 
+Made in my freetime for a friend who likes birds (and my coding final), this is my first real github project and is likely really poorly optimized. 
 
 Here is a photo:
 
@@ -15,5 +15,5 @@ And a short clip:
 https://github.com/user-attachments/assets/29c34f3d-21b2-472f-8b2b-1c1d28517f96
 
 Unfortunately, I was far too lazy to make it wrap across screens, so the birds are locked in a little digital cage.
-Also, this isnt well made, _and it's not on accident._
+_Also, this isnt well made (if it wasnt obvious)._
 **Enjoy!**
