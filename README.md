@@ -1,3 +1,6 @@
+Coding final, not so much a showcase of skill, but more a personal learning experience intended to learn tkinter, images, and more about python in general.
+
+
 **Warning: There is no real way to close the program, it must be closed in task manager.** (also a small amount of lag was produced when many birds were flying and hitting the edges at once, or when their randomness caused extremely fast bouncing and queued tons of sfx to play)
 
 The birdflu is a file that just puts bird on your screen, between one and five, that bounce around randomly and cannot be interacted with.
