@@ -19,7 +19,7 @@ def resource_path(relative_path):
 def play():
     def sound_thread():
         isitepic = random.randrange(0, 1_000)
-        if isitepic != 1000:
+        if isitepic != 999:
             sound_list = [
                 'tweet.mp3', 'chirp.mp3', 'caw.mp3', 'chichi.mp3',
                 'woot.mp3', 'birdsound.wav', 'meow.wav', 'whowho.wav', 'whistle.mp3'
